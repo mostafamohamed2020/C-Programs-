@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597949066 source:c:\users\abdo gomaa\desktop\maths;;\maths_library_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"math lib.h"
+
+1597949099 c:\users\abdo gomaa\desktop\maths;;\maths_library_test\math lib.h
+
